@@ -1,2 +1,3 @@
 # Ignore Go tarballs
 *.tar.gz
+.env
