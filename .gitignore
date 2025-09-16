@@ -1,0 +1,2 @@
+# Ignore Go tarballs
+*.tar.gz
